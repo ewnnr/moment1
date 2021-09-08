@@ -1,6 +1,6 @@
 # Moment 1 Webbutveckling 3
-## Detta är min repository för moment 1 i Webbutveckling 3
-### Moment för kursen
+Hej och välkommen, nedan följer en lista på vilka moment som finns i denna kurs. 
+## Moment för kursen
   1. Versionshantering och Git  
   1. NodeJS och Gulp  
   1. CSS och preprocessorer och SASS  
